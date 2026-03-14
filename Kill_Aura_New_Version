@@ -346,7 +346,7 @@ end)
 -- background image
 local BG=Instance.new("ImageLabel",Main)
 BG.Size=UDim2.new(1,0,1,0); BG.BackgroundTransparency=1
-BG.Image="rbxassetid://116609435350470"; BG.ImageTransparency=0.82
+BG.Image="rbxassetid://102621558434211"; BG.ImageTransparency=0.82
 BG.ScaleType=Enum.ScaleType.Crop; BG.ZIndex=1
 Instance.new("UICorner",BG).CornerRadius=UDim.new(0,10)
 -- wavy dots
